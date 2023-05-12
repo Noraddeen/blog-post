@@ -1,0 +1,5 @@
+Post::first();
+Post::take(2)->get(); first two rows
+Post::all()
+Post::latest()  order by created_at,desc _____ 2022 - 2000 - 1990
+Post::oldest()

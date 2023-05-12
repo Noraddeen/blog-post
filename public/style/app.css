@@ -1,0 +1,19 @@
+body{
+    max-width: 600px;
+    color: #222222;
+    margin: auto;
+}
+article{
+    border-bottom:2px solid black;
+}
+p{
+    line-height:1.6rem;
+}
+
+.row-box{
+    display: flex;
+    flex-direction: row;
+}
+.aside{
+    margin-right: 10px;
+}
